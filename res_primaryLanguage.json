@@ -1,0 +1,134 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Prince Prajapati. I am a skilled software developer and designer with expertise in various programming languages such as PHP, Python, C#, C/C++, and JavaScript. I have experience working with frameworks like Django, Flask, and ReactJS, as well as cloud platforms like AWS EC2. Experience with designing tools like Adobe XD and Figma. With a strong foundation in database management and a passion for problem-solving, I thrive in collaborative environments and deliver innovative solutions.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Gamer's Paradise",
+        "startDate": "2023",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. It's an eCommerce website for selling games online. Made with Python, Django and JavaScript. Hosted with PythonAnyWhere.",
+        "images": [
+          "images/portfolio/gamersparadise/1.png",
+          "images/portfolio/gamersparadise/2.png"
+        ],
+        "url": "https://github.com/princeprajapati/gamersparadise",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          }
+        ]
+      },
+      {
+        "title": "Parent's Eye",
+        "startDate": "2020",
+        "description": "Parent’s Eye is a system where the child is monitored through cameras and captures the child’s movements engaged with electronic gadgets within a specific period. And it generates hourly and weekly reports of the child’s anomalies. Sequentially, if the activity remains the same for a particular period, an alert is generated to warn the parents.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/princeprajapati/Parent-s-Eye",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          }
+        ]
+      },
+      {
+        "title": "Simple Basic CRUD PHP",
+        "startDate": "2020",
+        "description": "It's simple project of ecommerce website built using PHP, MySQL, JavaScript and HTML/CSS.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/princeprajapati/CRUD-with-PHP-and-MySQL",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "Mysql"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      }
+      
+    ],
+    "experience": [
+      {
+        "company": "Nividous",
+        "title": "Python Developer",
+        "years": "12.2019 - 06.2020",
+        "mainTech": [
+          "Python",
+          "RPA",
+          "React",
+          "NodeJS",
+          "C#"
+        ],
+        "technologies": [
+          "Python",
+          "REST API",
+          "React",
+          "JavaScript",
+          "Bootstrap",
+          ".NET Core",
+          "Robot Framework",
+          "RPA Studio"
+        ]
+      },
+      {
+        "company": "Softvan",
+        "title": "Intern",
+        "years": "06.2019 - 12.2019",
+        "mainTech": [
+          "Python","Django/Flask","AI","Machine Learning"
+        ],
+        "technologies": [
+          "Python",
+          "Django",
+          "Flask",
+          "Facial Recognization",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
