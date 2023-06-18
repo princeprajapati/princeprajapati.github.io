@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "name": "Prince Prajapati",
+      "titles": [ "Web Developer","Python Developer", "Full-stack Developer", "Back end Developer", "Software Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/princeprajapati",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/princeprajapati04/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "profile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "100"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "100"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "PostgreSql",
+          "class": "devicon-postgresql-plain",
+          "level": "95"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "100"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "95"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "75"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }
